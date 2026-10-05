@@ -11,7 +11,7 @@ const lesson: Lesson = {
     "Common options include single, 1.5, double and a chosen multiple.",
     "Paragraph spacing controls the space before and after a paragraph, usually in points.",
     "A heading is also a paragraph, so it can have its own before and after spacing.",
-    "Use consistent spacing and check it again after moving, inserting or deleting text."
+    "Use consistent spacing and check it again after moving, inserting or deleting text"
   ],
   "practice": {
     "task": "Give a heading 12 pt before and 6 pt after. Set the body to 1.5 line spacing and 6 pt after. Which gaps does each setting control?",
