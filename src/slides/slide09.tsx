@@ -27,10 +27,10 @@ const lesson: Lesson = {
     "choices": [
       "It updates page numbers automatically",
       "It makes all pages number 1",
-      "It removes the footer"
+      "It removes the footer "
     ],
     "answer": 0,
-    "explanation": "Automatic page-number fields show the current page number."
+    "explanation": "Automatic page-number fields show the current page number"
   }
 }
 
