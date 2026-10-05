@@ -1,0 +1,232 @@
+Chapter 17 Concepts Examples and Solutions
+Teacher guide following the supplied Chapter 17 Document Production, printed pages 341 to 358. Each concept contains five short explanation lines, two practical examples and a step-by-step solution for each example in desktop Microsoft Word. Menu names can differ slightly between Word versions. Create sample text as instructed, or reuse the source text in the practical worksheets.
+17.1.1 Page size and orientation
+Page size describes the physical dimensions of the paper, such as A4 or A5.Portrait is taller than it is wide; landscape is wider than it is tall.Choose the size and orientation to suit the document and its audience.A report often suits portrait, while a wide timetable may suit landscape.Always check the settings; TXT files use defaults, while RTF and Word files can retain saved formatting.
+Practical example 1  Create a school report on A4 portrait: choose Layout > Size > A4 and Orientation > Portrait. Check that the page is tall and narrow.
+Step 1. Open Word and create a blank document. Type a report title and one paragraph.
+Step 2. Choose Layout > Size > A4.
+Step 3. Choose Layout > Orientation > Portrait.
+Step 4. Open File > Print to inspect the preview. The page should be taller than it is wide. Save the file.
+Practical example 2  Create a timetable on A4 landscape: choose Layout > Orientation > Landscape. Check that the wider page gives more room for timetable columns.
+Step 1. Create a new document and type Timetable. Add a short timetable or sample text.
+Step 2. Choose Layout > Size > A4.
+Step 3. Choose Layout > Orientation > Landscape.
+Step 4. Open File > Print. Check that the page is wider than it is tall and save.
+17.1.2 Page margins
+Margins are the spaces between the page edges and the main body text.Top, bottom, left and right margins can be set independently.Wider margins reduce the space available for text and can increase the page count.Use the exact measurements requested, and convert units carefully: 10 mm equals 1 cm.After changing margins, check that the header and footer still align correctly.
+Practical example 1  Set all four margins to 2 cm using Layout > Margins > Custom Margins. Check that the body text remains 2 cm from each page edge.
+Step 1. Open a document and choose Layout > Margins > Custom Margins.
+Step 2. Enter 2 cm in Top, Bottom, Left and Right. Leave Gutter at 0 cm.
+Step 3. Set Apply to to Whole document and click OK.
+Step 4. Check File > Print: the body text should remain inside the four margins.
+Practical example 2  For a report, set top and bottom margins to 3 cm and left and right to 2.5 cm. Compare how the usable text area changes.
+Step 1. Choose Layout > Margins > Custom Margins.
+Step 2. Set Top and Bottom to 3 cm; set Left and Right to 2.5 cm.
+Step 3. Set Apply to to Whole document and click OK.
+Step 4. Compare the preview with the previous 2 cm margin version. The usable text area is smaller.
+17.1.3 Gutter margins
+A gutter is extra space reserved for binding a book or booklet.It prevents text from being hidden where pages are glued, stapled or fastened.The gutter can be placed at the left or top, depending on the binding edge.For top-edge binding, set the gutter position to Top and enter the required width.Check that header text does not fall inside the binding area.
+Practical example 1  For a left-bound booklet, set a 1.5 cm gutter with position Left. Check that extra space appears on the binding side.
+Step 1. Open Layout > Margins > Custom Margins.
+Step 2. Set Multiple pages to Normal for this practice. Enter Gutter 1.5 cm.
+Step 3. Set Gutter position to Left; set Apply to to Whole document and click OK.
+Step 4. Check the preview: the left binding space is wider. Save the booklet.
+Practical example 2  For a top-bound booklet, set a 2 cm gutter with position Top. Inspect Print Preview and move the header down if it enters the binding area.
+Step 1. Open Layout > Margins > Custom Margins.
+Step 2. Set Multiple pages to Normal. Enter Gutter 2 cm and choose Gutter position Top. Click OK.
+Step 3. Double-click the header. Inspect Header from Top in the Header and Footer tab.
+Step 4. If the header overlaps the binding area, increase its distance from the top and recheck Print Preview. Save.
+Supporting concept Headers footers and fields
+A header appears in the top area of a page; a footer appears in the bottom area.They can contain names, dates, times, filenames and automatic page numbers.Fields display information automatically; some fields must be updated after saving or editing.Changing page width may require adjusting centre and right tab stops in these areas.Use suitable edge distances and check long filenames or paths for unwanted wrapping.
+Practical example 1  Insert your name on the left of the footer and an automatic page number on the right. Add a page and check that its page number updates.
+Step 1. Choose Insert > Footer > Edit Footer and type your name.
+Step 2. Set a right-aligned tab at the right text margin using the ruler or the Paragraph > Tabs dialog. Press Tab to reach it.
+Step 3. Choose Insert > Page Number > Current Position and select a plain automatic number.
+Step 4. Close Header and Footer. Insert a page break in the body with Ctrl+Enter.
+Step 5. Check the second page footer: its automatic page number should show 2.
+Practical example 2  Insert a filename field in the header. Save the document as School_Report.docx, update the field and check that the new filename appears.
+Step 1. Save the document as School_Report.docx. Double-click the top of the page to edit the header.
+Step 2. Choose Insert > Quick Parts > Field. Select FileName in the field list.
+Step 3. Click OK to insert the filename field. Close the header.
+Step 4. If you rename or save another copy, right-click the filename field and choose Update Field. Check that the displayed name matches the saved file.
+17.1.4 Purpose of document breaks
+Breaks control where text continues and where a different layout begins.A page break starts a new page; a column break starts the next available column.A section break separates areas that can have different page or column settings.Breaks help keep content organised and can help resolve awkward pagination.Use Show Hide to see breaks, instead of pressing Enter repeatedly to move text.
+Practical example 1  Place the cursor before Chapter Two and insert a page break. Turn on Home > Show Hide to identify the break and compare it with blank paragraphs.
+Step 1. Type Chapter One, some text, then Chapter Two on a new paragraph.
+Step 2. Place the cursor immediately before Chapter Two. Choose Insert > Page Break or press Ctrl+Enter.
+Step 3. Choose Home > Show Hide, the paragraph-mark button.
+Step 4. Identify the Page Break marker. Compare it with ordinary paragraph marks produced by Enter.
+Step 5. Delete unnecessary blank paragraphs and confirm that the page break still moves Chapter Two.
+Practical example 2  Create a portrait cover and landscape body using a Next Page section break. Explain why this layout needs a section break rather than only a page break.
+Step 1. Create a cover with a title and your name. Place the cursor after the cover text.
+Step 2. Choose Layout > Breaks > Section Breaks > Next Page.
+Step 3. Click in the following section and choose Layout > Orientation > Landscape.
+Step 4. Check that the cover remains portrait. Use Page Setup > Apply to > This section if needed.
+Step 5. Explain: the section break permits a different orientation; an ordinary page break does not.
+17.1.5 Page breaks
+A page break forces the following text to start on a new page.It is useful before a new topic or before content that should stay together.It does not by itself create an area with different orientation or margins.Insert it at the start of the text that must move, then inspect the result.Remove an unwanted page break to allow the text to flow normally again.
+Practical example 1  Place the cursor before Science Notes and press Ctrl+Enter. Check that Science Notes begins on a new page.
+Step 1. Type two short topics, with Science Notes as the second heading.
+Step 2. Place the cursor before Science Notes.
+Step 3. Press Ctrl+Enter to insert a page break.
+Step 4. Inspect File > Print. Science Notes should begin at the top of the next page.
+Practical example 2  Insert a page break before a short equipment table so it begins on a new page. Then delete the visible break and observe the content flowing back.
+Step 1. Create a small equipment table using Insert > Table. Place it after a paragraph.
+Step 2. Click before the table and insert a page break. If necessary, select the start of the first cell and press Ctrl+Enter.
+Step 3. Turn on Home > Show Hide and inspect the Page Break marker before the table.
+Step 4. Select only the break marker and press Delete. Check that the table flows back according to the available space.
+17.1.5 Section breaks
+A section break divides a document into areas with independently controlled layout.A Next Page section break starts a new section on the following page.A Continuous section break starts a new section on the same page.Use sections for a portrait cover followed by landscape pages or for mixed column layouts.Check Apply to and Link to Previous when changing section layout or header and footer content.
+Practical example 1  Insert Layout > Breaks > Next Page after a cover. Set the following section to landscape while keeping the cover portrait.
+Step 1. Type a cover title and your name, then place the cursor after the name.
+Step 2. Choose Layout > Breaks > Section Breaks > Next Page.
+Step 3. Click in the new section and choose Layout > Orientation > Landscape.
+Step 4. If Word changes the whole document, open Page Setup and set Apply to to This section.
+Step 5. Inspect both pages: cover portrait, following section landscape.
+Practical example 2  Insert Continuous section breaks before and after two body paragraphs. Set only that section to two columns, keeping the title and remaining text full width.
+Step 1. Type a title, two body paragraphs and a closing paragraph.
+Step 2. Place the cursor before the first body paragraph. Choose Layout > Breaks > Section Breaks > Continuous.
+Step 3. Place the cursor after the second body paragraph and insert another Continuous section break.
+Step 4. Click between the breaks. Choose Layout > Columns > More Columns > Two, Apply to This section, then OK.
+Step 5. Check that the title and closing paragraph remain full width.
+17.1.5 Column breaks and pagination
+A column break forces text to the top of the next available column.The next column may be on the same page or on the following page.A widow is a paragraph ending left alone at the top of a page or column.An orphan is a paragraph opening left alone at the bottom; also avoid isolated headings.Use widow orphan control, Keep with next and suitable breaks to improve the layout.
+Practical example 1  In a two-column newsletter, insert Layout > Breaks > Column before School News. Check that the heading moves to the top of the next column.
+Step 1. Create two body paragraphs and a School News heading. Set this section to two columns through Layout > Columns.
+Step 2. Place the cursor immediately before School News.
+Step 3. Choose Layout > Breaks > Column.
+Step 4. Check that the heading moves to the next column. Show Hide should display a Column Break marker.
+Practical example 2  Find a heading alone at the bottom of a page. Apply Paragraph > Line and Page Breaks > Keep with next, and check that it stays with its following paragraph.
+Step 1. Create enough text to place a heading near the bottom of a page with its paragraph on the next page.
+Step 2. Select the heading only. Open Home > Paragraph dialog launcher.
+Step 3. Choose Line and Page Breaks and tick Keep with next. Click OK.
+Step 4. Check that the heading moves with the first line of the following paragraph. Also inspect Widow Orphan control for body text.
+17.1.6 Columns
+Columns arrange text vertically, like a newspaper or newsletter.You can set the number of columns, their widths and the gap between them.A vertical line can be added between columns when requested.Section breaks let a title or table remain full width while nearby body text uses columns.Apply the settings to the intended section and check that headings are not stranded.
+Practical example 1  Select a body section and set two equal columns, a 1 cm gap and Line between. Check that the title remains outside the column section.
+Step 1. Place Continuous section breaks before and after the body text, leaving the title outside that section.
+Step 2. Click in the body section and choose Layout > Columns > More Columns.
+Step 3. Choose Two, tick Equal column width and Line between, and set Spacing to 1 cm.
+Step 4. Set Apply to to This section and click OK.
+Step 5. Check the body has two equal columns and the title remains full width.
+Practical example 2  On A4 portrait with 2 cm margins, create three columns with widths 4 cm, 4 cm and 7 cm and two 1 cm gaps. The total is the 17 cm usable width.
+Step 1. Set Layout > Size > A4, Orientation > Portrait and all margins to 2 cm.
+Step 2. Choose Layout > Columns > More Columns; set Number of columns to 3.
+Step 3. Clear Equal column width and set each of the two gaps to 1 cm.
+Step 4. Set the three widths to 4 cm, 4 cm and 7 cm. Check the dialog values before clicking OK.
+Step 5. The total is 4 + 4 + 7 + 1 + 1 = 17 cm, matching the usable width. Inspect the ruler and preview.
+17.2.1 Text alignment
+Left alignment gives a straight left edge and a ragged right edge.Centre alignment places each line around the centre of the available width.Right alignment gives a straight right edge and a ragged left edge.Justified alignment aligns text to both margins by adjusting spacing between words.Choose the requested alignment; titles, body text and different paragraphs may use different settings.
+Practical example 1  Centre the title School Technology Club, then left align its introductory paragraph. Compare the two layouts.
+Step 1. Type School Technology Club as one paragraph and an introduction below it.
+Step 2. Select only the title paragraph. Choose Home > Paragraph > Centre or press Ctrl+E.
+Step 3. Select the introduction. Choose Left Align or press Ctrl+L.
+Step 4. Compare the centred title with the straight left edge of the introduction.
+Practical example 2  Justify a report paragraph and right align the author name beneath it. Check the straight edges produced by each alignment.
+Step 1. Type a report paragraph long enough to wrap over several lines. Type the author name beneath it.
+Step 2. Select the report paragraph and choose Home > Justify or press Ctrl+J.
+Step 3. Select the author paragraph and choose Align Right or press Ctrl+R.
+Step 4. Check that the report aligns at both margins and the author name ends at the right margin.
+17.2.2 Line and paragraph spacing
+Line spacing controls the distance between lines within a paragraph.Common options include single, 1.5, double and a chosen multiple.Paragraph spacing controls the space before and after a paragraph, usually in points.A heading is also a paragraph, so it can have its own before and after spacing.Use consistent spacing and check it again after moving, inserting or deleting text.
+Practical example 1  Set the same paragraph first to single and then double line spacing. Compare the distance between lines without adding blank paragraphs.
+Step 1. Select a paragraph with several lines.
+Step 2. Choose Home > Line and Paragraph Spacing > 1.0. Observe the line gaps.
+Step 3. With the same paragraph selected, choose 2.0.
+Step 4. Observe the larger line gaps. Do not press Enter to create spacing.
+Practical example 2  Give a heading 12 pt spacing before and 6 pt after. Give the body paragraph 1.5 line spacing and 6 pt after; explain which gaps each setting controls.
+Step 1. Select the heading and open Home > Paragraph dialog.
+Step 2. Under Spacing set Before to 12 pt and After to 6 pt. Click OK.
+Step 3. Select its body paragraph and reopen the Paragraph dialog. Set Line spacing to 1.5 lines and After to 6 pt.
+Step 4. Click OK and compare the line gaps with the gaps between paragraphs.
+17.2.3 Paragraph indents
+An indent moves paragraph text inward from the normal margin.A first line indent moves only the opening line of the paragraph.A whole paragraph indent moves every line of the paragraph inward.A hanging indent keeps the first line further left than the following lines.Use the ruler or Paragraph dialog to set accurate values, rather than repeated spaces.
+Practical example 1  Set a 1 cm first-line indent on a report paragraph. Check that only the opening line moves inward.
+Step 1. Select a report paragraph. Open Home > Paragraph dialog.
+Step 2. Under Indentation set Left to 0 cm and Special to First line.
+Step 3. Set By to 1 cm and click OK.
+Step 4. Check the ruler and paragraph: only the first line should move inward.
+Practical example 2  Indent a quotation paragraph 2 cm from the left. On another paragraph apply a 1 cm hanging indent; compare whole-paragraph and hanging layouts on the ruler.
+Step 1. Select a quotation paragraph. In the Paragraph dialog set Left to 2 cm and Special to None. Click OK.
+Step 2. Select a different paragraph. Set Left to 0 cm, Special to Hanging and By to 1 cm. Click OK.
+Step 3. Turn on View > Ruler. Compare the indent markers for both paragraphs.
+Step 4. The quotation shifts all lines; the hanging paragraph shifts the lines after the first.
+17.2.3 Tab stops
+A tab stop sets a position where text lands when the Tab key is pressed.A left tab aligns the start of text; a centre tab centres text on the position.A right tab aligns the end of text; a decimal tab aligns values on the decimal separator.Tabs can organise tabular data without making a table, such as names and prices.Set the required positions and clear conflicting stops; default tabs may give untidy results.
+Practical example 1  Type Keyboard, Tab, 120.50 on one line and Mouse, Tab, 45.75 on another. Set a decimal tab at 12 cm and check that the decimal points align.
+Step 1. Type Keyboard, press Tab, type 120.50 and press Enter. Type Mouse, press Tab and type 45.75.
+Step 2. Select both lines. Open Home > Paragraph dialog > Tabs.
+Step 3. Click Clear All to remove custom stops. Enter 12 cm in Tab stop position, select Decimal and click Set.
+Step 4. Click OK. Confirm that both decimal points align at the same horizontal position.
+Practical example 2  Type Club, Tab, Technology, Tab, Room 4. Use a centre tab at 8 cm and a right tab at 16 cm, then use a separate left tab at 4 cm on another line to practise all alignment types.
+Step 1. Type Club, press Tab, type Technology, press Tab and type Room 4. Select this line.
+Step 2. Open Paragraph > Tabs. Clear custom stops. Set an 8 cm Centre tab and a 16 cm Right tab, clicking Set after each. Click OK.
+Step 3. Confirm Technology is centred on 8 cm and Room 4 ends at 16 cm.
+Step 4. On a separate line type Item, Tab, Keyboard. Select that line and set a 4 cm Left tab.
+Step 5. Check that Keyboard starts at 4 cm. Use a page with enough usable width, such as A4 portrait with 2 cm margins.
+17.2.4 Text enhancement
+Bold, italic, underline, highlighting and colour can make selected text stand out.Font size and capitalisation can also give emphasis to a word or phrase.Superscript makes a character smaller and raises it above the baseline, as in x squared.Subscript makes a character smaller and lowers it below the baseline, as in H2O.Apply enhancements only to the required text and keep the document readable and consistent.
+Practical example 1  Format a title in bold and dark blue, italicise a quotation and underline an important phrase. Highlight a reminder and compare how each enhancement draws attention.
+Step 1. Select a title. Choose Home > Bold and Font Colour > a dark blue.
+Step 2. Select a quotation and click Italic. Select a separate important phrase and click Underline.
+Step 3. Select a reminder and choose Text Highlight Colour.
+Step 4. Compare the results and check that only the intended text was enhanced.
+Practical example 2  Type H2O and x2. Select only the 2 in H2O and apply subscript; select only the 2 in x2 and apply superscript. Check their positions relative to the baseline.
+Step 1. Type H2O and x2. Select only the 2 in H2O.
+Step 2. Choose Home > Font > Subscript, the x2 icon with a lowered 2.
+Step 3. Select only the 2 in x2 and choose Superscript, the icon with a raised 2.
+Step 4. Check that the first digit is below the baseline and the second is above it.
+17.2.5 Bulleted and numbered lists
+Bullets suit items that do not need a particular order, such as equipment.Numbering suits ordered steps, sequences or ranked items.Lists can have different bullet symbols, levels, marker positions and text indents.Use consistent line spacing and paragraph spacing across the list.Defined list styles help maintain the same formatting when items are added or edited.
+Practical example 1  Turn Laptop, Keyboard and Mouse into a square-bullet list. Add Charger as a second-level item under Laptop, with a smaller indent for level 1 than level 2.
+Step 1. Type Laptop, Keyboard and Mouse on separate paragraphs. Select all three.
+Step 2. Open Home > Bullets dropdown > Define New Bullet > Symbol. Choose a filled square bullet and click OK.
+Step 3. After Laptop press Enter and type Charger. Place the cursor in Charger and choose Increase Indent to make it level 2.
+Step 4. If needed use Home > Multilevel List or Define New Multilevel List to set level 1 and level 2. Choose a smaller marker indent for level 1.
+Step 5. Check that Charger is nested beneath Laptop while Keyboard and Mouse remain level 1.
+Practical example 2  Turn Open Word, Enter text, Save file into a numbered list. Insert Check spelling before Save file and check that the numbering updates.
+Step 1. Type Open Word, Enter text and Save file on separate paragraphs. Select all three.
+Step 2. Choose Home > Numbering and select the 1, 2, 3 format.
+Step 3. Place the cursor at the start of Save file, press Enter to create an item above it, then click that empty item and type Check spelling.
+Step 4. Check that the four steps are numbered 1 to 4 and Save file becomes item 4.
+17.2.6 Find and Replace
+Find locates text; Replace substitutes specified text with new text.Replace All changes every match, while individual replacement lets you inspect each one.Match case distinguishes uppercase and lowercase text when necessary.Find whole words only helps prevent changing letters inside a longer word.Check the search options and inspect the result so unrelated text is not changed.
+Practical example 1  Type ABC supplies equipment. ABC supports school. ABCD is a code. Replace whole-word uppercase ABC with XYZ; check that two occurrences change and ABCD remains.
+Step 1. Type ABC supplies equipment. ABC supports school. ABCD is a code.
+Step 2. Press Ctrl+H. Enter ABC in Find what and XYZ in Replace with.
+Step 3. Click More and tick Match case and Find whole words only. Ensure no unwanted formatting filters are set.
+Step 4. Click Replace All. Word should report two replacements.
+Step 5. Read the text: both ABC words become XYZ and ABCD stays unchanged.
+Practical example 2  Replace the phrase school club with technology club one match at a time. Read each sentence before accepting the change, then explain when Replace All would be useful.
+Step 1. Type two sentences containing school club and one unrelated sentence.
+Step 2. Press Ctrl+H. Enter school club in Find what and technology club in Replace with.
+Step 3. Check the search options. Click Find Next to inspect a match.
+Step 4. Click Replace only when the change is appropriate, then repeat for the next match.
+Step 5. Explain that Replace All is suitable only when every match should change.
+17.2.7 Bookmarks
+A bookmark gives a name to a selected location or passage in a document.It helps users return to that place, especially in a long document.Use short meaningful names, such as Motherboard; use underscores instead of spaces.The Bookmark dialog allows you to add, locate, navigate to and delete bookmarks.Deleting a bookmark removes its marker, not the text; links to that marker may then fail.
+Practical example 1  Select the Motherboard explanation heading and add a bookmark named Motherboard. Use Insert > Bookmark > Go To to return to that heading.
+Step 1. Type a Motherboard heading followed by an explanation. Select the heading.
+Step 2. Choose Insert > Bookmark. Enter Motherboard and click Add.
+Step 3. Move the cursor elsewhere in the document. Reopen Insert > Bookmark.
+Step 4. Select Motherboard and click Go To. Check that Word returns to the selected heading.
+Practical example 2  Add a bookmark named Guide_Title to the document title. Delete it through the Bookmark dialog and check that the title text is still present.
+Step 1. Select the document title. Choose Insert > Bookmark and enter Guide_Title. Click Add.
+Step 2. Reopen the Bookmark dialog. Select Guide_Title and click Delete.
+Step 3. Close the dialog. Check that the title text is still present.
+Step 4. Reopen Bookmark and check that Guide_Title is no longer listed.
+17.2.8 Hyperlinks
+A hyperlink connects selected text to a destination that the reader can open.The destination can be a webpage, another file, an email address or a place in the document.An internal contents link can point to a bookmark at a particular heading.Edit a link to change its display text or destination, then test that it still works.Remove Hyperlink keeps the visible text but removes the clickable connection.
+Practical example 1  Select Motherboard in a contents list and link it to the Motherboard bookmark using Place in This Document. Test that following the link moves to the explanation heading.
+Step 1. First create a Motherboard bookmark on the explanation heading. Add Motherboard to a contents list elsewhere.
+Step 2. Select Motherboard in the contents list and press Ctrl+K or choose Insert > Link.
+Step 3. Choose Place in This Document and select the Motherboard bookmark. Click OK.
+Step 4. Use the follow-link action, usually Ctrl+click in desktop Word. Check that it jumps to the explanation.
+Practical example 2  Link Cambridge website to https://www.cambridgeinternational.org/ . Edit the displayed text to Cambridge International, then remove the hyperlink and confirm that the visible text remains.
+Step 1. Type Cambridge website and select it. Press Ctrl+K.
+Step 2. Choose Existing File or Web Page, enter https://www.cambridgeinternational.org/ in Address and click OK.
+Step 3. Right-click the linked text and choose Edit Hyperlink. Change Text to display to Cambridge International, retain the address and click OK.
+Step 4. Right-click the link and choose Remove Hyperlink.
+Step 5. Check that Cambridge International remains visible but is no longer clickable.
+Related prior learning
+Briefly revise audience, file management, layout, styles and proofing from Chapters 9, 11, 13, 14 and 15. Headers, footers, field updates and widow orphan control support the exercises in this chapter. Images, database work, presentations and mail merge are not additional sections of this supplied chapter.
